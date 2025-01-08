@@ -1,4 +1,4 @@
-![Ultrasonic Sensor Circuit](ultrasonic_circuit.png)
+![Ultrasonic Sensor Circuit]([ultrasonic_circuit.png](https://github.com/AseelJamaan/Electronics-Task-1-Part-2/blob/a77f97d440ad456ff33026099945b2be3da6de2d/Led%20and%20Ultrasonic.png))
 
 This electronic circuit uses an **ultrasonic sensor** (with Trig and Echo pins) to measure the distance between the sensor and an object. The sensor sends sound waves, and the Echo pin detects the time it takes for the waves to bounce back. The Arduino calculates the distance based on this time.
 
